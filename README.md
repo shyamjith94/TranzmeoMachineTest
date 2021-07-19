@@ -1,1 +1,1 @@
-# TranzmeoMachineTest
+# TranzmeoMachineTest  squareform and numpy
